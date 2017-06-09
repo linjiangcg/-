@@ -6,7 +6,7 @@ int main()
 	int i;
 	for (; ;)
 	{
-		i = 1;
+		i = 11;
 		while (i <= 20)
 		{
 			if (a % i == 0)
