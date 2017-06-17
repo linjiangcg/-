@@ -4,9 +4,9 @@ int main()
 {
 	int i = 1;
 	int product = 1;
-	int result1 = 0;    //平方的和
+	int result1 = 0;    //骞虫柟鐨勫拰
 	int sum = 0;
-	int result2;        //和的平方 
+	int result2;        //鍜岀殑骞虫柟 
 	int difference;     
 
 	for (; i <= 100; i++)
